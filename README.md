@@ -10,4 +10,8 @@ Implementar una aplicación para la gestión de los Grupos o Secciones que se cr
 ## Requerimientos Principales
 1. Una interfaz para realizar el CRUD de los semestres
 2. Una opción que permita activar o establecer un semestre como el semestre en curso
-3. Debe permitir la apertura de grupos de un curso *secciones* en el semestre en curso.
+3. Debe permitir la apertura de grupos de un curso (*secciones*) en el semestre en curso.
+4. Debe permitir la definición de horarios para las secciones en los diferentes tipos de dictado considerando la cantidad de horas que se dictan por cada tipo. Los tipos de dictado básicos son TEORIA, PRACTICA y LABORATORIO.
+5. Debe permitir la asignación de aulas a las secciones.
+
+
