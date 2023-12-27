@@ -1,0 +1,10 @@
+Para correr en frontend:
+
+Instalar NodeJS última versión estable https://nodejs.org/en
+En la carpeta de frontend abrir una terminal y ejecutar el comando npm i
+Ejecutar el comando npm start
+
+Para ejecutar el backend:
+Descargar e instalar el sdk de .net 6 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+Entrar en la caparteta SigFisiApi y abrir la terminal
+Ejecutar el comando "dotnet run --project WebApi"
